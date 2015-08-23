@@ -7,4 +7,4 @@ Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-
 It's very simple to use this workflow, only download and drag in drop in yours Alfred Workflows.
 So, you only should key "Oxford" in Alfred, like this:
 
-![Oxford Workflow])(https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/example.jpg)
+![Oxford Workflow](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/example.jpg)
