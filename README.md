@@ -1,6 +1,6 @@
 # Oxford Dictionaries Alfred Workflow
 Simple workflow for see word definition in Oxford Dictionaries.
-Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/Oxford%20Dictionaries%20Workflow%20Alfred.alfredworkflow).
+Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Alfred-Workflow/blob/master/Oxford%20Dictionaries%20Workflow%20Alfred.alfredworkflow).
 
 ## How to use
 
@@ -8,4 +8,4 @@ Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-
 2. Double click to install;
 3. Type “oxford” and then type the word to look up the definition;
 
-![Oxford Workflow](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/example.jpg)
+![Oxford Workflow](https://github.com/boniattirodrigo/Oxford-Dictionaries-Alfred-Workflow/blob/master/example.jpg)
