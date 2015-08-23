@@ -4,6 +4,8 @@ Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-
 
 ## How to use
 
-It's very easy to use, download the .alfredworkflow file and double click to install it, then type “oxford" in Alfred:
+1. Download the Workflow file;
+2. Double click to install;
+3. Type “oxford” and then type the word to look up the definition;
 
 ![Oxford Workflow](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/example.jpg)
