@@ -4,7 +4,6 @@ Download [here](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-
 
 ## How to use
 
-It's very simple to use this workflow, only download and drag in drop in yours Alfred Workflows.
-So, you only should key "Oxford" in Alfred, like this:
+It's very easy to use, download the .alfredworkflow file and double click to install it, then type “oxford" in Alfred:
 
 ![Oxford Workflow](https://github.com/boniattirodrigo/Oxford-Dictionaries-Workflow-Alfred/blob/master/example.jpg)
